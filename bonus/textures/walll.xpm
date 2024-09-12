@@ -1,0 +1,35 @@
+/* XPM */
+static char *banania_wall1676388691[] = {
+/* columns rows colors chars-per-pixel */
+"25 25 4 1 ",
+"  c black",
+". c #00BFBF",
+"X c cyan",
+"o c white",
+/* pixels */
+"                         ",
+" ooooooooooooooooooooooX ",
+" oXXXXXXXXXX XXXXXXXXXX. ",
+" oXXXXXXXXX   XXXXXXXXX. ",
+" oXXXXXXXX  .  XXXXXXXX. ",
+" oXXXXXXX  ...  XXXXXXX. ",
+" oXXXXXX  .....  XXXXXX. ",
+" oXXXXXXX ..... XXXXXXX. ",
+" oXXXX XX ..... XX XXXX. ",
+" oXXX     .....     XXX. ",
+" oXX  .............  XX. ",
+" oX  ...............  X. ",
+" o  .................  . ",
+" oX  ...............  X. ",
+" oXX  .............  XX. ",
+" oXXX     .....     XXX. ",
+" oXXXX XX ..... XX XXXX. ",
+" oXXXXXXX ..... XXXXXXX. ",
+" oXXXXXX  .....  XXXXXX. ",
+" oXXXXXXX  ...  XXXXXXX. ",
+" oXXXXXXXX  .  XXXXXXXX. ",
+" oXXXXXXXXX   XXXXXXXXX. ",
+" oXXXXXXXXXX XXXXXXXXXX. ",
+" X...................... ",
+"                         "
+};
