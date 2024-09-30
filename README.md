@@ -29,7 +29,7 @@ This project is a 3D game implemented in C using the MLX library. It employs ray
    2. ./cub3d_bonus
 
 ### Controls
-   W: Move forward
+   W. Move forward
    S: Move backward
    A: Move to left side
    D: Move to right side
