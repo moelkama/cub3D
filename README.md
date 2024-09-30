@@ -19,10 +19,20 @@ This project is a 3D game implemented in C using the MLX library. It employs ray
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
+   
 ### ENJOY GAME
-   ```bash
+   
    1. make
    2. ./cub3d
    bonus
    1. make bonus
    2. ./cub3d_bonus
+
+### Controls
+   W: Move forward
+   S: Move backward
+   A: Move to left side
+   D: Move to right side
+   Left: Turn left
+   Right: Turn right
+   mouse cursor: Turn (right, left)
