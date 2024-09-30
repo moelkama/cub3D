@@ -39,3 +39,5 @@ This project is a 3D game implemented in C using the MLX library. It employs ray
 
 ### RESOURCES
    https://harm-smits.github.io/42docs/projects/cub3d
+   https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html
+   https://permadi.com/tutorial/raycast/rayc9.html
