@@ -30,9 +30,11 @@ This project is a 3D game implemented in C using the MLX library. It employs ray
    mouse cursor: Turn (right, left)
 
 ### ENJOY GAME
+   ```bash
    1. make
    2. ./cub3d
    bonus
+   ```bash
    1. make bonus
    2. ./cub3d_bonus
 
