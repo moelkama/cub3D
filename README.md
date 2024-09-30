@@ -11,7 +11,7 @@ This project is a 3D game implemented in C using the MLX library. It employs ray
 ## Getting Started
 
 ### Prerequisites
-- C compiler (e.g., GCC)
+- cc compiler (e.g., GCC)
 - MLX library (install instructions below)
 
 ### Installation
