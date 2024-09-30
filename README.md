@@ -35,3 +35,7 @@ This project is a 3D game implemented in C using the MLX library. It employs ray
    bonus
    1. make bonus
    2. ./cub3d_bonus
+
+
+### RESOURCES
+   https://harm-smits.github.io/42docs/projects/cub3d
