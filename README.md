@@ -17,8 +17,8 @@ This project is a 3D game implemented in C using the MLX library. It employs ray
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/yourusername/cub3D.git
+   cd cub3D
 
 ### Controls
    W: Move forward
