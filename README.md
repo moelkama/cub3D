@@ -17,11 +17,13 @@ This project is a 3D game implemented in C using the MLX library. It employs ray
 - cc compiler (e.g., GCC)
 - MLX library (install instructions below)
 
-### Installation
+### Installation and Runing
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/cub3D.git
    cd cub3D
+   make
+   ./cub3d
 
 ### Controls
    W: Move forward
