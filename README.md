@@ -4,7 +4,7 @@
 This project is a 3D game implemented in C using the MLX library. It employs raycasting techniques to render a map where players can move freely within a 3D environment. The game features textured walls and a minimap for navigation.
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvXW0wLc4Pqpj64UWd7ZS5WS8f_NvBbh4GRSuvKTrndvShsoxW6YRi8stYxBBsYq7w2M&usqp=CAU">
-
+<img src="https://camo.githubusercontent.com/0318f76bb367de342e4d19bbcbe9f3529df286fbb14b36cba15e4ae9c8ca35c4/68747470733a2f2f692e696d6775722e636f6d2f566631484c52452e706e67">
 ## Features
 - **3D Wall Rendering**: Experience immersive gameplay with realistic wall textures.
 - **Player Movement**: Navigate through the map with smooth controls.
